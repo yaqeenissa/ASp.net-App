@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Bg/6WsDX2wmf0QOuqYO7ENPf4hdDupl3X47unoh+Hns=",
+  "Source": "testMigration",
+  "BasePath": "_content/testMigration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
